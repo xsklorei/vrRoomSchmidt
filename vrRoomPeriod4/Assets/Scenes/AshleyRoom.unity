@@ -5156,7 +5156,7 @@ GameObject:
   - component: {fileID: 1042679371}
   - component: {fileID: 1042679370}
   m_Layer: 0
-  m_Name: Scoket
+  m_Name: Socket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5194,7 +5194,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 2
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_DisableVisualsWhenBlockedInGroup: 1
